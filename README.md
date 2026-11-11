@@ -1,7 +1,18 @@
-# ERP-Academico
-AFASP: Sistema enfocado para el área de floriculturismo que maneja:
-  Gestión de lotes y siembra: seguimiento de parcelas y variedad de flores. 
-  Control de riego y factores: permite monitorear los parámetros de humedad para cada etapa de crecimiento de las flores.  
-  Control de calidad: Registrará la fecha de recolección y se validarán aspectos específicos de las flores como su longitud, color, forma, y estándares establecidos. 
-  Inteligencia de Negocio: Se hará análisis de las preferencias del mercado según la temporada. Para gestionar la oferta y demanda. 
-  Historial y reportes/bitácoras: servirá para tener un registro y poder generar reportes de todo lo que ha pasado durante los ciclos de producción, y será útil en caso de auditorías. 
+# ⎝ 𓆩 乇尺尸 卂匚卂刀É爪工匚口 𓆪 ⎠
+## (｡•‿•｡) A̳F̳A̳S̳P̳: S̳i̳s̳t̳e̳m̳a̳ e̳n̳f̳o̳c̳a̳d̳o̳ p̳a̳r̳a̳ e̳l̳ ár̳e̳a̳ d̳e̳ f̳l̳o̳r̳i̳c̳u̳l̳t̳u̳r̳i̳s̳m̳o̳ q̳u̳e̳ m̳a̳n̳e̳j̳a̳:
+   🌱  Gestión de lotes y siembra
+       - Seguimiento de parcelas y variedad de flores.
+
+   💧  Control de riego y factores
+       - Monitoreo de humedad en cada etapa de crecimiento.
+
+   🔍  Control de calidad
+       - Fecha de recolección, longitud, color, forma y estándares.
+
+   📊  Inteligencia de negocio
+       - Preferencias del mercado por temporada (oferta y demanda).
+
+   📚  Historial y bitácoras
+       - Registro y reportes de los ciclos de producción para auditorías.
+
+        🌸              🌼              🌷
